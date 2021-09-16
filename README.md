@@ -1,13 +1,13 @@
-### Hi there , I am Felix (https://github.com/Eli-Dev/Eli-Dev/raw/master/wave.gif) 
+### Hi there , I am Felix 
 
 ##🌱 I’m currently learning Javascript(React) and Go
 
-### 💬 My Tech Stack
-## Python(Django,DataAnalysis)
-## JavaScript(React,JQuery)
-## Go
-## BootStrap(CSS)
-## PostgreSQL
+## 💬 My Tech Stack
+# Python(Django,DataAnalysis)
+# JavaScript(React,JQuery)
+# Go
+# BootStrap(CSS)
+# PostgreSQL
 
 # 💻 Primarily working with Python and Go on private projects
 <!--
