@@ -1,5 +1,7 @@
 ### Hi there , I am Felix 
 
+I am a solution-focused web development Learner with fascinating knowledge in web-based applications. I am fascinated in the creation process of software applications that meet the customers’ needs while advancing the organizations position in the marketplace.
+
 ##🌱 I’m currently learning Javascript(React) and Go
 
 ## 💬 My Tech Stack
