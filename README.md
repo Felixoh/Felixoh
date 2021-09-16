@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there , I am Felix (https://github.com/Eli-Dev/Eli-Dev/raw/master/wave.gif) 
 
+##🌱 I’m currently learning Javascript(React) and Go
+
+### 💬 My Tech Stack
+## Python(Django,DataAnalysis)
+## JavaScript(React,JQuery)
+## Go
+## BootStrap(CSS)
+## PostgreSQL
+
+# 💻 Primarily working with Python and Go on private projects
 <!--
 **Felixoh/Felixoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
