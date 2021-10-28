@@ -2,16 +2,17 @@
 
 I am a solution-focused web development Learner with fascinating knowledge in web-based applications. I am fascinated in the creation process of software applications that meet the customers’ needs while advancing the organizations position in the marketplace.
 
-# 🌱 I’m currently learning Javascript(React) and Go
+# 🌱 I’m currently learning Javascript(Angular) and Django
 
 ## 💬 My Tech Stack
-#Python(Django,DataAnalysis)
-#JavaScript(React,JQuery)
-#Go
-#BootStrap(CSS)
+#Python(Django)  + DRF
+#JavaScript(JQuery,Angular)
+#BootStrap5(CSS)
+#HTML5
 #PostgreSQL
 
-#💻 Primarily working with Python and Go on private projects
+
+#💻 Primarily working with Python and JavaScript on private projects
 
 <!--
 **Felixoh/Felixoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
