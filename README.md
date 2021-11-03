@@ -11,7 +11,7 @@ I am a solution-focused web development Learner with fascinating knowledge in we
 #HTML5
 #PostgreSQL
 
-# 📫 Reach out Via (devfeloh1@gmail.com)
+## 📫 Reach out Via (devfeloh1@gmail.com)
 #💻 Primarily working with Python and JavaScript on private projects
 
 <!--
