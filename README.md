@@ -2,13 +2,13 @@
 
 I am a solution-focused web development Learner with fascinating knowledge in web-based applications. I am fascinated in the creation process of software applications that meet the customers’ needs while advancing the organizations position in the marketplace.
 
-# 🌱 I’m currently learning Javascript(Angular) and Django
+# 🌱 I’m currently using Javascript(Angular) and Golang
 
 ## 💬 My Tech Stack
-#Python(Django)  + DRF
-#JavaScript(JQuery,Angular)
-#BootStrap5(CSS)
+#JavaScript(Angular)
+#BootStrap5(CSS3)
 #HTML5
+#Golang
 #PostgreSQL
 
 ## 📫 Reach out Via (devfeloh1@gmail.com)
