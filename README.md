@@ -12,7 +12,7 @@ I am a solution-focused web development Learner with fascinating knowledge in we
 #PostgreSQL
 
 ## 📫 Reach out Via (devfeloh1@gmail.com)
-#💻 Primarily working with Python and JavaScript on private projects
+#💻 Primarily working with Javascript/Typescript(Angular) and Go on private projects
 
 <!--
 **Felixoh/Felixoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
