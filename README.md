@@ -16,7 +16,7 @@ I am a solution-focused FullStack web developer with fascinating knowledge in we
 ### 📫 Reach out Via (devfeloh1@gmail.com)
 ##### 💻 Primarily working with Javascript/Typescript(Angular) and Golang on private projects
 - ⚡ Fun fact: Cool Time is Bae
-
+- 🌱 Growth Mindset
 <!--
 **Felixoh/Felixoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ⚡ Fun fact: ...
