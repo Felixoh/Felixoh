@@ -1,21 +1,25 @@
 ### Hi there , I am Felix 
 
-I am a solution-focused web development Learner with fascinating knowledge in web-based applications. I am fascinated in the creation process of software applications that meet the customers’ needs while advancing the organizations position in the marketplace.
+I am a solution-focused FullStack web developer with fascinating knowledge in web-based applications.I am fascinated in the creation process of software applications that meet the customers’ needs while advancing the organizations position in the marketplace.
 
 ## 🌱 I’m currently using Javascript(Angular) and Golang
 
-## 💬 My Tech Stack
-#JavaScript(Angular)
-#BootStrap5(CSS3)
-#HTML5
-#Golang
-#PostgreSQL
-
-## 📫 Reach out Via (devfeloh1@gmail.com)
-#💻 Primarily working with Javascript/Typescript(Angular) and Go on private projects
+### 💬 My Tech Stack
+---
+#### JavaScript(Angular)
+#### BootStrap5(CSS3)
+#### HTML5
+#### Golang(API) and Backend Services
+#### PostgreSQL,MySQL
+#### Python(Automation and Data Scraping)
+---
+### 📫 Reach out Via (devfeloh1@gmail.com)
+##### 💻 Primarily working with Javascript/Typescript(Angular) and Golang on private projects
+- ⚡ Fun fact: Cool Time is Bae
 
 <!--
 **Felixoh/Felixoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact: ...
 
 Here are some ideas to get you started:
 
