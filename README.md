@@ -2,7 +2,7 @@
 
 I am a solution-focused FullStack web developer with fascinating knowledge in web-based applications.I am fascinated in the creation process of software applications that meet the customers’ needs while advancing the organizations position in the marketplace.
 
-## 🌱 I’m currently using Javascript(Angular) and Golang
+## 🌱 My key Tools currently are Javascript(Angular),Python  and Golang
 
 ### 💬 My Tech Stack
 ---
